@@ -1,0 +1,41 @@
+
+.wetherBg{
+  background: url("C:\Users\kuldeEP SINGH\OneDrive\Desktop\w.png");
+  background-size: cover;
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.heading{
+  color: skyblue;
+  font-weight: 700;
+  background-color: white;
+  font-style: italic;
+}
+
+.wetherResultBox{
+  
+  margin: auto;
+  width: 500;
+  height: 300;
+}
+.weathorIcon{
+  background-color: aqua;
+ 
+  width: 200px;
+  height: 200px;
+}
+
+.weatherCity{
+  font-size: 35px;
+  font-weight: 700;
+ 
+
+}
+
+.weathrTemp{
+  font-size: 1000px;
+  font-weight: 700px;
+}
